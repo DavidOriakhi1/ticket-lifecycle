@@ -36,7 +36,7 @@ First, I created a ticket as a customer in osTicket where the issue states that 
 <br />
 
 <p>
-<img src="https://i.imgur.com/Cpxr7GD.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fUQTZ92.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Next, as an admin within osTicket, I assigned the ticket to one of the agents on the support team- 'Jane Doe'. In this case this is an emergency request with a short window of 2-4hours to close the ticket, there for the SLA was set to 'SEV-A'
