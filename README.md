@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/A1LnzXw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RVvfpan.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, I created a ticket as a customer in osTicket where the issue states that 'The entrire mobile banking system is down' 
