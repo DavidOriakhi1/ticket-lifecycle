@@ -44,7 +44,7 @@ First, I created a ticket as a customer in osTicket where the issue states that 
 <br />
 
 <p>
-<img src="https://i.imgur.com/OpIfReV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hrP58QB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, after resolving the issue with Jane Doe, I closed the ticket and set the status to 'resolved' after explaining how I resolved the issue.
